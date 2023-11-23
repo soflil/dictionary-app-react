@@ -17,7 +17,7 @@ function App() {
           ></img>
         </header>
         <main>
-          <Dictionary defaultKeyword="happy" />
+          <Dictionary defaultKeyword="sun" />
         </main>
         <footer className="App-footer">
           Coded by Sophie Schou, open sourced on{" "}
